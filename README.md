@@ -5,4 +5,4 @@ My first mod, coding something new everyday!
 
 Refer to the "telecompass-1.0.0.jar" file to play with this feature in game!
 
-<img width="760" height="762" alt="image" src="https://github.com/user-attachments/assets/9271177b-dabb-449b-acbb-391f7e916b4c" />
+<img width="475" height="476.25" alt="image" src="https://github.com/user-attachments/assets/9271177b-dabb-449b-acbb-391f7e916b4c" />
